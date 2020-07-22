@@ -926,3 +926,12 @@ pre {
   font-style: italic;
   font-size: 1rem;
 }
+
+/* Avatar */
+
+.avatar {
+  display: block;
+  margin: 0 auto;
+  border-radius: 100%;
+  box-shadow: 0 0 0 1.5em #ffffff;
+}
