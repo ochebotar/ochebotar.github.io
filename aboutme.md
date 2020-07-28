@@ -9,6 +9,7 @@ subtitle: Why you'd want to go on a date with me
 My name is Alik Chebotar and I have the following qualities:
 
 - Hacker and web solutions expert. 
+- CTO and founder of Kip0d Solutions
 - Expertise and experience in all phases of project life cycle namely analysis, design, coding, testing and implementation phases. 
 - Living a life full of wonder and a thirst for knowledge.
 
