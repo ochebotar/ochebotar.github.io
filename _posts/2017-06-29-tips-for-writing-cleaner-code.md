@@ -226,7 +226,7 @@ Now it becomes possible to remove the second handler by calling
 $('a').off('click.namespace2');
 ```
 
-More information about namespaced events can be found [here](http://api.jquery.com/on/#event-names).
+More information about namespaced events can be found [here](http://api.jquery.com/on/#event-names){:target="_blank"}.
 
 This is only a small part of the problems that I regularly encounter in someone else’s code. I hope that this post will help improve the quality of the code.
 

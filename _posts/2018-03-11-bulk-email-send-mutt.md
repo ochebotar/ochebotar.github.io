@@ -11,7 +11,7 @@ comments: true
 Recently I faced with the task: I needed to send thousands of e-mails with a survey link to all students in university.
 The problem of mass mailing from a desktop client is that the whole students list is visible in the CC field.
 I solved this problem through a simple command in terminal using mutt.
->  **Mutt** is a [text-based](https://en.wikipedia.org/wiki/Text_user_interface) [email client](https://en.wikipedia.org/wiki/Email_client) for [Unix-like](https://en.wikipedia.org/wiki/Unix-like) systems. It was originally written by Michael Elkins in 1995 and released under the [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License) version 2 or any later version.
+>  **Mutt** is a [text-based](https://en.wikipedia.org/wiki/Text_user_interface){:target="_blank"} [email client](https://en.wikipedia.org/wiki/Email_client) for [Unix-like](https://en.wikipedia.org/wiki/Unix-like){:target="_blank"} systems. It was originally written by Michael Elkins in 1995 and released under the [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License){:target="_blank"} version 2 or any later version.
 
 Okay, lets get to work. First we need to create a configuration file:
 

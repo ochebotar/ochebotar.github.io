@@ -16,7 +16,7 @@ When the indexing technology for mobile devices arrived, the development of mobi
 
 ![](https://cdn-images-1.medium.com/max/2464/1*oRvorsz1TSvQ2yAEq9Ff0w.png)
 
-[Apppresser](https://apppresser.com/) is one of the most popular WordPress mobile development plugins with over 4,000 downloads. It will help you successfully convert any WordPress website into a full iOS mobile app.
+[Apppresser](https://apppresser.com/){:target="_blank"} is one of the most popular WordPress mobile development plugins with over 4,000 downloads. It will help you successfully convert any WordPress website into a full iOS mobile app.
 
 ### Features:
 
@@ -46,7 +46,7 @@ When the indexing technology for mobile devices arrived, the development of mobi
 
 ![](https://cdn-images-1.medium.com/max/2468/1*4sWeVccxS1D-agszaGTmGA.png)
 
-[MobiLoud](https://www.mobiloud.com/) is a multi-functional plugin that allows you to transform your WordPress website into a full-fledged mobile application for iOS devices.
+[MobiLoud](https://www.mobiloud.com/){:target="_blank"} is a multi-functional plugin that allows you to transform your WordPress website into a full-fledged mobile application for iOS devices.
 
 ### Features:
 
@@ -74,7 +74,7 @@ When the indexing technology for mobile devices arrived, the development of mobi
 
 ![](https://cdn-images-1.medium.com/max/2440/1*RWbe3PZLJyB_Ie-FEdZyYQ.png)
 
-[WPMobile.App](https://wpmobile.app/en/) is one of the most popular plugins for mobile development on WordPress, which allows the user to publish the created mobile application in the vastness of the App Store and Play Store. The plugin already has over 2,000 downloads worldwide.
+[WPMobile.App](https://wpmobile.app/en/){:target="_blank"} is one of the most popular plugins for mobile development on WordPress, which allows the user to publish the created mobile application in the vastness of the App Store and Play Store. The plugin already has over 2,000 downloads worldwide.
 
 ### Features:
 
@@ -98,7 +98,7 @@ When the indexing technology for mobile devices arrived, the development of mobi
 
 ![](https://cdn-images-1.medium.com/max/2000/1*WRv4pX7IbrqKKt3SoVjCHw.png)
 
-Progressive Web Apps (PWA) is a new technology that combines the best of mobile web and the best of mobile apps to create a superior mobile web experience. They are installed on the phone like a normal app (web app) and can be accessed from the home screen. You can [download the Super PWA plug-in here](https://wordpress.org/plugins/super-progressive-web-apps/).
+Progressive Web Apps (PWA) is a new technology that combines the best of mobile web and the best of mobile apps to create a superior mobile web experience. They are installed on the phone like a normal app (web app) and can be accessed from the home screen. You can [download the Super PWA plug-in here](https://wordpress.org/plugins/super-progressive-web-apps/){:target="_blank"}.
 
 ### Features:
 
@@ -108,7 +108,7 @@ Progressive Web Apps (PWA) is a new technology that combines the best of mobile 
 
 * Customization options: The plugin provides great customization options for your application.
 
-* [Apple Touch Icons](https://superpwa.com/addons/apple-touch-icons/?utm_source=wordpress.org&utm_medium=description) that sets your app icons as Apple Touch Icons.
+* [Apple Touch Icons](https://superpwa.com/addons/apple-touch-icons/?utm_source=wordpress.org&utm_medium=description){:target="_blank"} that sets your app icons as Apple Touch Icons.
 
 ### Pricing: free!
 

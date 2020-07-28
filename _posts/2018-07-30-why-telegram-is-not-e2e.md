@@ -8,7 +8,7 @@ thumbnail-img: /assets/img/telegram.png
 tags: [privacy, e2e, telegram, messengers]
 comments: true
 ---
-*This is a translation of the [original article](https://habr.com/post/418535/) by [Scratch](https://habr.com/users/Scratch/).*
+*This is a translation of the [original article](https://habr.com/post/418535/){:target="_blank"} by [Scratch](https://habr.com/users/Scratch/){:target="_blank"}.*
 
 There is a lot of discussion about how secure the new Telegram Passport service, so lets talk about how the service encrypts your personal data and understand how is real End-To-End works.
 
@@ -24,7 +24,7 @@ Lets analyse the first part, which deals with the encryption and storage of your
 
 According to the developers understanding of End to End — Telegram cloud cannot decrypt your personal data.
 
-Lets inspect the [encrypting algorithm](https://github.com/telegramdesktop/tdesktop/blob/a919737f6ef98b56cd7db41577ecfc269a60f444/Telegram/SourceFiles/passport/passport_encryption.cpp). It starts from the password when it turns into an intermediate encryption key:
+Lets inspect the [encrypting algorithm](https://github.com/telegramdesktop/tdesktop/blob/a919737f6ef98b56cd7db41577ecfc269a60f444/Telegram/SourceFiles/passport/passport_encryption.cpp){:target="_blank"}. It starts from the password when it turns into an intermediate encryption key:
 
 ```cpp
 bytes::vector CountPasswordHashForSecret(
