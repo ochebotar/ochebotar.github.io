@@ -10,7 +10,7 @@ comments: true
 ---
 Many of us familiar with a chinese superapp WeChat — a browser for the local chinese internet, consisting of one government host and often presented as something beautiful. The idea of government censorship of all messages and tracking all the user activity is a privacy disaster. 
 I suggest we reflect on the principle of:
-> "No freedom to the enemies of freedom."
+> No freedom to the enemies of freedom.
 
 Let me start with a brief historical tour. The ideas of freedom of speech such as: assembly, press, entrepreneurship, non-representation of taxes, the right to protect life and property comes from the ["modern era"](https://en.wikipedia.org/wiki/Human_history#Modern_history){:target="_blank"} (approximately from the 16th century) to early liberalism. During this period there was a collapse of the old medieval feudal and serfdom systems, and a freer system of relations was just emerging and was not obvious. Thinkers such as John Locke or Adam Smith expressed something truly new that had not been accepted before. So when they came up with the idea of freedom of speech, however they didn't think too much about a simple thing - how could freedom of speech be protected? It seemed too early to think about it.
 
