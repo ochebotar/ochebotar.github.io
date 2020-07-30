@@ -1,7 +1,6 @@
 ---
 layout: post
 title: No freedom to the enemies of freedom
-description: No freedom to the enemies of freedom
 cover-img: /assets/img/freedom.jpg
 thumbnail-img: /assets/img/freedom.jpg
 # gh-repo: daattali/beautiful-jekyll
