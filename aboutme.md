@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 3497 7614 B2A2 7672 5091  A4F2 D771 B340 3469 D24D
 ---
 
 <img src="/assets/img/avatar.jpeg" alt="Alik Chebotar photo" style="float: right;" class="avatar">
